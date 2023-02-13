@@ -1,3 +1,3 @@
 prueba de contenido modificado con GIT y GITHUB
 
-primer paso:  url: "http:\\localhost:5173"
+primer paso:  url: "https:\\localhost:5173"
